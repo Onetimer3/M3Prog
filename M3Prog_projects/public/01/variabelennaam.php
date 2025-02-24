@@ -17,7 +17,7 @@ $$auto = ?
 $kleurVanAuto = ?
 
 $software-dev =	?
-// dit werkt niet vanwege het  dubbele "-" teken in de variabele naam
+// dit werkt niet vanwege het "-" teken in de variabele naam
 
 
 ?>

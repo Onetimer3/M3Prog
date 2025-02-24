@@ -11,7 +11,6 @@
     echo $favouritegame;
     echo $mooistgetal;
     
-    
 ?>
 
 
